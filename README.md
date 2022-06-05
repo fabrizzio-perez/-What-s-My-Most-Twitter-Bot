@@ -1,0 +1,2 @@
+# -What-s-My-Most-Twitter-Bot
+A Twitter bot that responds to users with a link to their most liked or most retweeted tweet. This bot uses Tweepy API and data scraping to get the users information, without having to sign into the users profile account. The purpose of this bot is to prevent the need for Twitter users to sign into other second-hand sights and risk the possibility of getting private password and sensitive information being stolen. 
